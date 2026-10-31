@@ -1,4 +1,13 @@
-MIT License
+AshikAI
+ app/src/main/java/com/ashik/ai/
+ MainActivity.kt — Chat UI and controls
+ AssistantViewModel.kt — Chat state and requests
+ VoiceManager.kt — Speech recognition and TTS
+ GeminiRepository.kt — AI integration
+  AndroidManifest.xml
+   build.gradle.kts
+   
+   MIT License
 
 Copyright (c) 2026 OpenDex contributors
 
